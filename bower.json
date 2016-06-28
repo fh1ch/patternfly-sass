@@ -14,18 +14,18 @@
   },
   "moduleType": "globals",
   "main": [
-    "assets/stylesheets/_patternfly.scss",
-    "assets/javascripts/patternfly.js"
+    "/assets/stylesheets/_patternfly.scss",
+    "/assets/javascripts/patternfly.js"
   ],
   "ignore": [
     "**/.*",
-    "node_modules",
-    "lib",
-    "tasks",
-    "pkg",
-    "bower_components",
-    "spec",
-    "tmp"
+    "/node_modules",
+    "/lib",
+    "/tasks",
+    "/pkg",
+    "/bower_components",
+    "/spec",
+    "/tmp"
   ],
   "dependencies": {
     "bootstrap-sass": "~3.3.6",
